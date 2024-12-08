@@ -1,0 +1,22 @@
+.buildinput{
+    background-color: transparent;
+    display: flex;
+    flex-direction: row;
+    height: 500px;
+    box-sizing: border-box;
+}
+.buildinput1{
+    background-color: transparent;
+    width: 40%;
+    height: 500px;
+    box-sizing: border-box;
+}
+
+.buildinput2{
+    width: 60%;
+    height: 500px;
+    box-sizing: border-box;
+}
+.c{
+    background-color: #fffd00;
+}

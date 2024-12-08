@@ -1,0 +1,56 @@
+{
+    "budget": {
+      "approved": 10000,
+      "consumed": 9000,
+      "available": 1000,
+      "prs": {
+        "total": 250,
+        "approved": 240,
+        "pending": 10
+      },
+      "pos": {
+        "total": 240,
+        "approved": 220,
+        "pending": 20
+      }
+    },
+    "overallSummary": [
+      {
+        "targetDate": "TTL KPR Cky",
+        "demand": 327,
+        "percentage": "100%"
+      },
+      {
+        "targetDate": "KPR Pending",
+        "demand": 0,
+        "percentage": "0%"
+      }
+    ],
+    "buildInputDates": [
+      {
+        "category": "PRB-1 Build Start date",
+        "date": "01-07-2024"
+      },
+      {
+        "category": "FATP Line Input",
+        "date": "26-06-2024"
+      },
+      {
+        "category": "MLB Line Input",
+        "date": "19-06-2024"
+      }
+    ],
+    "targetEIHDetails": [
+      {
+        "lineScope": "MLB - PRB1 Build",
+        "targetEIH": "07-05-2024",
+        "targetETD": "14-05-2024"
+      },
+      {
+        "lineScope": "Quality MLB - PRB1 Build",
+        "targetEIH": "21-05-2024",
+        "targetETD": "28-05-2024"
+      }
+    ]
+  }
+  
